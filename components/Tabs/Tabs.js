@@ -31,6 +31,11 @@ tabs:[
         id:3,
         name:"关于",
         isActive:false
+    },
+    {
+        id:4,
+        name:"我们",
+        isActive:false
     }
 ]
     },
