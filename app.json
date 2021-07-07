@@ -1,0 +1,53 @@
+{
+  "pages":[
+    "pages/demo1/demo1",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/col/col",
+    "pages/scol/scol",
+    "pages/mine/mine"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#13227a",
+    "navigationBarTitleText": "榆苑一点通",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "icons/_home.png",
+      "selectedIconPath": "icons/home.png"
+     
+    },
+    {
+      "pagePath": "pages/col/col",
+      "text": "榆苑",
+      "iconPath": "icons/_col.png",
+      "selectedIconPath": "icons/col.png"
+      
+    },
+    {
+      "pagePath": "pages/scol/scol",
+      "text": "绥德校区",
+      "iconPath": "icons/_scol.png",
+      "selectedIconPath": "icons/scol.png"
+      
+    },
+    {
+      "pagePath": "pages/mine/mine",
+      "text": "我的",
+      "iconPath": "icons/_my.png",
+      "selectedIconPath": "icons/my.png"
+     
+    }
+  ],
+  "color": "#8a8a8a",
+  "selectedColor": "#13227a" ,
+  "backgroundColor": "#f6f6f6",
+  "borderStyle":"white"
+},
+  
+  "sitemapLocation": "sitemap.json"
+}

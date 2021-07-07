@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view >
+
+<swiper autoplay interval="2000" circular indicator-dots="true" indicator-color="#8a8a8a" indicator-active-color="#13227a"> 
+<swiper-item><image mode="widthfix" src="http://r.photo.store.qq.com/psc?/V51RLBvU3DnRyG3ItFc932avZU417l4m/Sc7wZG8Q0BUeMz.O80ebfB0c1U0LozdPElnpgU.hGlXMuMKZRFWRMO43xyHePMiBfveOXh9B8pXwc8.yr7HI6JBLFOGutH4InFExSELqxPo!/r"/></swiper-item>
+<swiper-item><image mode="widthfix" src="http://r.photo.store.qq.com/psc?/V51RLBvU3DnRyG3ItFc932avZU417l4m/Sc7wZG8Q0BUeMz.O80ebfDldWXYJMMzOWaqS41UNduqNA9zqWuif*od3c51iLNnSXF.ELc0dEQQttcswJ4XV7mBi5unYFK42RbDqgefQhbg!/r"/></swiper-item>
+<swiper-item><image mode="widthfix" src="http://r.photo.store.qq.com/psc?/V51RLBvU3DnRyG3ItFc932avZU417l4m/Sc7wZG8Q0BUeMz.O80ebfAcM73*l9fXlUGh.EYZAx9QeD2fUgANFjLcRAPJWR2okitTZiRHsfvbINwJ6cy8aQsxJX6PdNnGzBSablUxfr4Y!/r"/></swiper-item>
+</swiper>
+  
+</view>
